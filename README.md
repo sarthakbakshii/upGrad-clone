@@ -8,4 +8,4 @@ In this project, courses page, backend and database was under my responsibility.
 
 Team Members: Ashish Kumar Shaw, Ashutosh Swaraj, Aditya Pathak and Sheelu Kumar
 
-Blog : <a href="">sasa</a>
+Blog : <a href="https://medium.com/@ashishkumarshaw98/cloning-upgrad-com-a-little-functional-and-more-visual-clone-456aab8acff1">https://medium.com/@ashishkumarshaw98/cloning-upgrad-com-a-little-functional-and-more-visual-clone-456aab8acff1</a>
